@@ -1,2 +1,3 @@
 *.pyc
 recom/
+*.sqlite3
